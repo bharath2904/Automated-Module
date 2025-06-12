@@ -1,6 +1,6 @@
 # Agoda Hotel Review Scraper & Analyzer
 
-This is an automated web scraping tool designed to collect hotel reviews from Agoda.com. It uses a Flask web interface to accept user input (city, star rating), scrapes the data using Playwright, performs sentiment analysis on the reviews, and saves the results to a CSV file.
+This is an automated web scraping tool designed to collect hotel reviews from Agoda.com. It uses a Flask web interface to accept user input (city, star rating, date filter), scrapes the data using Playwright, performs sentiment analysis on the reviews, and saves the results to a CSV file.
 
 ## Features
 
